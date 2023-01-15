@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-blue-technology-cyber-security-poster-image_261494.jpg)](https://AVI-SHUKLA1110.io)
+[![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-the-internet-blue-technology-background-cyber-security-technology-picture-image_926212.jpg)](https://AVI-SHUKLA1110.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
