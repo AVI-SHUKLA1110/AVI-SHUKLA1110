@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\91723\Pictures\github-header-image.png")](https://AVI-SHUKLA1110.io)
+[![MasterHead]("https://heimdalsecurity.com/blog/wp-content/uploads/New-Code-Scanning-GitHub-Features-cover-image.png")](https://AVI-SHUKLA1110.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
