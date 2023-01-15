@@ -1,11 +1,10 @@
-[![MasterHead]([https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-blue-technology-cyber-security-poster-image_261494.jpg](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnhRSjlxc1JyLTNjRGVrWHlyRlptUmxnSFhJd3xBQ3Jtc0tsY1NfaGVYN0lDN1l4eWpqRXVuS0NOR0dwbmIxY3VVckRwOGlCWnZmU1FvX3FBbHZKT1h0cXlhU0pubGYxc1RGYXFuOWFwcV9IbE5waU1QYTU3TDZFaElGekJyVlVsdVZBR2V0b2xocmZhRHl0SVZabw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)
-)]
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-blue-technology-cyber-security-poster-image_261494.jpg)](https://AVI-SHUKLA1110.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
 <h3 align="center">Cybersecurity.</h3>
 
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...")](https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-shukla1110&label=Profile%20views&color=0e75b6&style=flat" alt="avi-shukla1110" /> </p>
 
