@@ -5,7 +5,7 @@
 
 <h3 align="center">Cybersecurity.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/bqrUA.gif](https://tenor.com/view/coding-gif-18657810)”>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-shukla1110&label=Profile%20views&color=0e75b6&style=flat" alt="avi-shukla1110" /> </p>
 
