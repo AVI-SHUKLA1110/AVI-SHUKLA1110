@@ -1,4 +1,4 @@
-[![MasterHead]("https://heimdalsecurity.com/blog/wp-content/uploads/New-Code-Scanning-GitHub-Features-cover-image.png")](https://AVI-SHUKLA1110.io)
+[![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-the-internet-blue-technology-background-cyber-security-technology-picture-image_926212.jpg)](https://AVI-SHUKLA1110.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
