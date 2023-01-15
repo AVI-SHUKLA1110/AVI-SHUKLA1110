@@ -4,7 +4,7 @@
 
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-shukla1110&label=Profile%20views&color=0e75b6&style=flat" alt="avi-shukla1110" /> </p>
 
@@ -22,9 +22,9 @@
 
 <a href="https://twitter.com/ashikla693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikla693" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/abhishek shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek shukla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-shukla-a549541b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-shukla-a549541b7/" height="30" width="40" /></a>
 
-<a href="https://hashnode.com/@avishukla693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@avishukla693" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://avishukla693.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://avishukla693.hashnode.dev/" height="30" width="40" /></a>
 
 </p>
 
