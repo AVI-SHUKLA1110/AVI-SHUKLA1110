@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **GOlang, Web exploitation**
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
 - 💬 Ask me about **CTFs,pentest,linux,networking**
-- 📫 How to reach me **avishukla1@outlook.com**
+- 📫 How to reach me **avi__shukla@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 
