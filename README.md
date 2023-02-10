@@ -44,8 +44,6 @@
    <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="50px"/>
   <img src="https://img.icons8.com/color/64/000000/git.png" width="50px"/>
   <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
-  <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/64/000000/kubernetes.png" width="50px" />
   <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" />
   <img src="https://img.icons8.com/fluency/512/azure-1.png" width="50px" />
   <img src="https://img.icons8.com/color/64/000000/python--v1.png" width="50px" />
