@@ -16,16 +16,22 @@
 - 💬 Ask me about **CTFs,pentest,linux,Cloud**
 - 📫 How to reach me **avi__shukla@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/ashikla693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikla693" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/abhishek-shukla-a549541b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-shukla-a549541b7/" height="30" width="40" /></a>
-
-<a href="https://hashnode.com/@abhishek397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://avishukla693.hashnode.dev/" height="30" width="40" /></a>
-
+ 
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/abhishek-shukla-a549541b7/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__avi_shukla__/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100060197031639">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+</a>&nbsp;&nbsp;
+ <a href="https://twitter.com/ashikla693">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+</a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
