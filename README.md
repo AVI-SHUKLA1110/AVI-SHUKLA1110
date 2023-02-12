@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://AVI-SHUKLA1110.io)
+[![MasterHead](https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1800%2C630)](https://AVI-SHUKLA1110.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
