@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/ashikla693" target="blank"><img src="https://img.shields.io/twitter/follow/ashikla693?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
 - 🔭 I’m currently working on **python projects**
-- 🌱 I’m currently learning **Cloud , HTB**
+- 🌱 I’m currently learning **web app testing**
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
-- 💬 Ask me about **CTFs,pentest,linux,Cloud**
+- 💬 Ask me about **CTFs,pentest,linux**
 - 📫 How to reach me **avi__shukla@outlook.com**
 
  
