@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
-<h3 align="center"><u>CYBERSECURITY</u></h3>
+<h3 align="center"><u>CYBERSECURITY![HackerAsciiGIF](https://user-images.githubusercontent.com/88367072/219386311-7f9c4446-df6f-4c64-bb38-e02575015199.gif)
+</u></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
