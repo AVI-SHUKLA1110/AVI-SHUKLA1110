@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/ashikla693" target="blank"><img src="https://img.shields.io/twitter/follow/ashikla693?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
-- 🔭 I’m currently working on **python projects**
-- 🌱 I’m currently learning **web app testing**
+- 🔭 I’m currently working on ** Development Projects**
+- 🌱 I’m currently learning **Smart Contract Security **
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
-- 💬 Ask me about **CTFs,pentest,linux**
-- 📫 How to reach me **avi__shukla@outlook.com**
+- 💬 Ask me about **CTFs,linux,Web3**
+- 📫 How to reach me **ashikla693**
 
  
 <h3>Connect with Me!</h3>
@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/profile.php?id=100060197031639">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
- <a href="https://twitter.com/ashikla693">
+ <a href="https://twitter.com/ShadowJin_">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 </a>&nbsp;&nbsp;
 </p>
