@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Smart Contract Security **
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
 - 💬 Ask me about **CTFs,linux,Web3**
-- 📫 How to reach me **ashikla693**
+- 📫 How to reach me **ashikla693@gmail.com**
 
  
 <h3>Connect with Me!</h3>
