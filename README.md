@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
 - 🔭 I’m currently working on ** Development Projects**
-- 🌱 I’m currently learning **Smart Contract Security **
+- 🌱 I’m currently learning **Smart Contract Security -Foundry**
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
-- 💬 Ask me about **CTFs,linux,Web3**
+- 💬 Ask me about **Web3, Cybersecurity & Linux**
 - 📫 How to reach me **ashikla693@gmail.com**
 
  
