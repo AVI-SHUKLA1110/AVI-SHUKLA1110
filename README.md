@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
-<h3 align="center"><u>Smart Contracts Security⚔️</u></h3>
+<h3 align="center"><u>Smart Contracts Security</u></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
