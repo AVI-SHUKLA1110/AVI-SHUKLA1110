@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 
-<h3 align="center"><u>Smart Contracts Security⚔️</u></h3>
+<h3 align="center"><u>SOC Analyst 🛡️ & Smart Contracts Security ⚔️</u></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -10,8 +10,8 @@
 
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
-- 🔭 I’m currently working on ** Development Projects**
-- 🌱 I’m currently learning **Smart Contract Security -Foundry**
+- 🔭 I’m currently working on ** Foundry & SIEM tools (SPLUNK)**
+- 🌱 I’m currently learning **Smart Contract Security and Log monitoring **
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
 - 💬 Ask me about **Web3, Cybersecurity & Linux**
 - 📫 How to reach me **ashikla693@gmail.com**
@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/profile.php?id=100060197031639">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
- <a href="https://twitter.com/ShadowJin_">
+ <a href="https://twitter.com/thetechnofeak">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 </a>&nbsp;&nbsp;
 </p>
@@ -40,14 +40,14 @@
    <img alt="html5" width="50px" src="https://img.icons8.com/color/240/000000/html-5.png">
    <img alt="css3" width="50px" src="https://img.icons8.com/color/240/000000/css3.png">
    <img alt="javascript" width="50px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-  <img src="https://img.icons8.com/color/64/000000/git.png" width="50px"/>
+   <img src="https://t.ly/rE_mJ" width ="50px" />
+   <img src="https://img.icons8.com/color/64/000000/git.png" width="50px"/>
   <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" width="100px" />
   <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" />
   <img src="https://img.icons8.com/color/64/000000/python--v1.png" width="50px" />
    <img src="https://img.icons8.com/color/512/linux.png" width="50px" />
    <img src="https://img.icons8.com/color/512/solidity.png" width="50px" />
-      <img src="https://img.icons8.com/color/nodejs.png" width="50px" />
-   
 </span>
 <hr>
 
