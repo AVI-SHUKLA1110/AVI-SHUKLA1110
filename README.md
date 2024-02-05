@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
-- 🔭 I’m currently working on ** Foundry & SIEM tools (SPLUNK)**
+- 🔭 I’m currently working on ** Foundry & SIEM tool **
 - 🌱 I’m currently learning **Smart Contract Security and Log monitoring **
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
 - 💬 Ask me about **Web3, Cybersecurity & Linux**
