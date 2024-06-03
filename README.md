@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/abhishek-shukla-a549541b7/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/__avi_shukla__/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100060197031639">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
